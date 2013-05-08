@@ -1,0 +1,17 @@
+{
+  "name": "RequireJS starter",
+  "version": "1.0.0",
+  "json": "bower.json",
+  "dependencies": {
+    "jquery": null,
+    "backbone-amd": null,
+    "underscore-amd": null,
+    "requirejs": null
+  },
+  "main": "main.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

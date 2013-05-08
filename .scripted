@@ -1,0 +1,26 @@
+{
+    "jshint": {
+        "options": {
+        	"strict": true,
+            "browser": true,
+            "devel": true,
+            "node": true
+        },
+        "global": [
+            "window","console", "gapi"
+        ]
+    },
+    
+	"formatter": {
+    	"js": {
+			"indent_size": 1,
+			"indent_char": "\t"
+		}
+	},
+	
+	"ui": {
+		"font":"Ubuntu Mono",
+	    "font_size":13,
+	    "navigator": false
+	}    
+}

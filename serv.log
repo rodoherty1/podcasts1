@@ -1,0 +1,13 @@
+Arguments: node,/usr/local/lib/node_modules/scripted/node_modules/serv/static-server.js,8000,/home/rob/workspace/requirejs
+Serving files from /home/rob/workspace/requirejs at 127.0.0.1:8000
+LiveReload server listening on port 35729.
+Reload request received for /home/rob/workspace/requirejs/app/scripts/main.js
+No active connection.
+Shutting down...
+Arguments: node,/usr/local/lib/node_modules/scripted/node_modules/serv/static-server.js,8000,/home/rob/workspace/requirejs
+Serving files from /home/rob/workspace/requirejs at 127.0.0.1:8000
+LiveReload server listening on port 35729.
+Reload request received for /home/rob/workspace/requirejs/app/scripts/main.js
+No active connection.
+Reload request received for /home/rob/workspace/requirejs/app/scripts/views/app.js
+No active connection.
