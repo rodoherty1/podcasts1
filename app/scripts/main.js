@@ -1,4 +1,4 @@
-require.config ({
+require.config({
 	paths: {
 		"jquery": "vendor/jquery/jquery",
 		"underscore": "vendor/underscore-amd/underscore",
@@ -6,11 +6,10 @@ require.config ({
 	}
 });
 
-require (['routers/router'], function (AppRouter) {
-	new AppRouter;
-});
 
-require (['views/app'], function (AppView) {
-	new AppView;
+require([
+	'app'],
+function(App) {
+	"use strict";
+	App.initialize();
 });
-
