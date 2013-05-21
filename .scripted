@@ -7,7 +7,7 @@
             "node": true
         },
         "global": [
-            "window","console", "gapi"
+            "window","console", "gapi", "define"
         ]
     },
     
@@ -20,7 +20,7 @@
 	
 	"ui": {
 		"font":"Ubuntu Mono",
-	    "font_size":13,
-	    "navigator": false
+	    "font_size":14,
+	    "navigator": true
 	}    
 }
